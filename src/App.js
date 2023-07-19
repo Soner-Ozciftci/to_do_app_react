@@ -5,7 +5,7 @@ import TodoList from "./components/TodoList";
 const todoList = [
   {
     id: 1,
-    text: "React ile todolist uygulaması",
+    text: "React ile ToDolist uygulaması",
     completed: false,
   },
   {
