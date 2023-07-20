@@ -1,12 +1,11 @@
-<h1>Soner Ozciftci</h1>
+<h1>Soner</h1>
 <h3>React-ToDo-App</h3>
 <br>
 ## Project Skeleton
 ```
 React-ToDo-App(folder)
 |
-|----readme.md       
-SOLUTION
+|----readme.md         
 ├── public
 │     └── index.html
 ├── src
@@ -16,7 +15,7 @@ SOLUTION
 │    │       ├── TodoList.jsx
 │    │
 │    │
-│    
+│    ├
 │    │
 │    │
 │    │
@@ -34,6 +33,6 @@ Build a Todo App using ReactJS.
 - JS
 - ReactJS
 ## ToDo App Projects Demo
-[Todo App Live](to-do-app-react-x5zzcstbf-soner-ozciftci.vercel.app)
+[Todo App Live](https://react-todoapp-uuid.vercel.app/)
 ## ToDo App Projects
-![React-ToDo-App Projects](todo_app.gif)
+![React-ToDo-App Projects](react-todo-app.gif)
